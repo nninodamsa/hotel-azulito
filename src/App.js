@@ -9,7 +9,7 @@ function App() {
         <img src="images/logo.png" className="App-logo" alt="Hotel Azulito" />
         <p>
           <span>[</span>
-          PROXIMAMENTE
+          PRÓXIMAMENTE
           <span>]</span>
         </p>
       </header>
